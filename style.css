@@ -1,0 +1,37 @@
+body {
+    text-align: center;
+    background-color: #A9C7AB;
+}
+h1 {
+    text-align: center;
+}
+h3 {
+    text-align: center;
+}
+p {
+    text-align: center;
+}
+iframe {
+    display: block;
+    margin: 0 auto;
+}
+.navbar {
+    background-color: #C50727;
+}
+.nav-item {
+    color: white;
+}
+footer {
+    background-color: #185F77;
+    color:white;
+    padding: 10px;
+}
+.container {
+    background-color: #A9C7AB;
+}
+.blue {
+    background-color: #4A6FA5;
+}
+.card-body {
+    background-color: #F4E9CD;
+}
