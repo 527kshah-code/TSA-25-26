@@ -31,6 +31,8 @@ footer {
 }
 .blue {
     background-color: #4A6FA5;
+    text-align: center;
+    
 }
 .card-body {
     background-color: #F4E9CD;
@@ -40,4 +42,9 @@ footer {
 }
 .bl {
     color: black;
+}
+h1 {
+    font-family: "legitima", serif;
+    font-weight: 500;
+    font-style: normal;
 }
